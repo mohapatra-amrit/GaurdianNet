@@ -33,6 +33,6 @@ To set up the Dual-Layer Intrusion Detection System, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/dual-layer-ids.git
+   git clone https://github.com/mohapatra-amrit/GuardianNet.git
 2. Download Dataset and give the path in code.
 3. Run the Jupyter Notebooks.
