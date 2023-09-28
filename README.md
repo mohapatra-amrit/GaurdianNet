@@ -1,6 +1,6 @@
 # Dual-Layer Intrusion Detection System
 
-A Dual-Layer Intrusion Detection System (IDS) designed to enhance network security by monitoring and detecting potential threats using a combination of signature-based and anomaly-based techniques.
+A Dual-Layer Intrusion Detection System (IDS) designed to enhance network security by monitoring and detecting potential threats using anomaly-based techniques.
 
 ## Table of Contents
 
