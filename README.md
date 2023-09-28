@@ -2,35 +2,11 @@
 
 A Dual-Layer Intrusion Detection System (IDS) designed to enhance network security by monitoring and detecting potential threats using anomaly-based techniques.
 
-## Table of Contents
-
-- [Dual-Layer Intrusion Detection System](#dual-layer-intrusion-detection-system)
-  - [Table of Contents](#table-of-contents)
-  - [Description](#description)
-  - [Features](#features)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
-
 ## Description
 
-The Dual-Layer Intrusion Detection System is a network security tool that provides two layers of defense against cyber threats:
+The Dual-Layer Intrusion Detection System is a network security tool that provides that combines two different machine learning techniques to improve the accuracy and efficiency of intrusion detection systems,while keeping false alarms to a minimum.
+![image](https://github.com/mohapatra-amrit/GuardianNet/assets/140162205/3120ea62-9251-45aa-a134-fe4fa7000947)
 
-1. **Signature-Based Detection**: This layer focuses on known attack patterns and signatures. It uses a database of predefined attack signatures to identify and block malicious activities.
-
-2. **Anomaly-Based Detection**: In this layer, the system monitors network traffic and user behavior to detect abnormal or suspicious activities that may indicate new, previously unknown threats.
-
-The system combines the strengths of both approaches to provide comprehensive protection for your network infrastructure.
-
-## Features
-
-- Signature-based intrusion detection.
-- Anomaly-based intrusion detection.
-- Real-time monitoring of network traffic.
-- Alerting and reporting mechanisms.
-- Customizable rule sets.
-- Integration with other security tools.
 
 ## Installation
 
@@ -40,3 +16,5 @@ To set up the Dual-Layer Intrusion Detection System, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/dual-layer-ids.git
+2. Download Dataset and give the path in code.
+3. Run the Jupyter Notebooks.
